@@ -1,12 +1,12 @@
 <h1>Hi🖐️ My name is An</h1>
 <hr/>
-<p>I'm a third-years student in <a href="https://sgu.edu.vn/">Saigon University</a> at Ho Chi Minh city.</p>
-<p>I have been programming since my first college year. I have worked on many projects using <a href="https://react.dev/">ReactJS</a> for 6 months and currently learning about <a href="https://www.typescriptlang.org/">TypeScript</a>, <a href="https://nextjs.org/">NextJS</a> and <a href="https://go.dev/">Go</a>.</p>
+<p>I'm a third-years student in <a href="https://sgu.edu.vn/" target="_blank">Saigon University</a> at Ho Chi Minh city.</p>
+<p>I have been programming since my first college year. I have worked on many projects using <a href="https://react.dev/" target="_blank">ReactJS</a> for 6 months and currently learning about <a href="https://www.typescriptlang.org/" target="_blank">TypeScript</a>, <a href="https://nextjs.org/" target="_blank">NextJS</a> and <a href="https://go.dev/">Go</a>.</p>
 
 <ul>
 <li>🌎 Ho Chi Minh city, Vietnam</li>
 <li>🏫 third-year at Saigon University</li>
-<li>📧 you can contact me at <a href = "mailto: caoan632002@gmail.com">caoan632002@gmail.com</a></li>
+<li>📧 you can contact me at <a href = "mailto: caoan632002@gmail.com" target="_blank">caoan632002@gmail.com</a></li>
 </ul>
 <hr/>
 <h3>Skills 💪</h3>
