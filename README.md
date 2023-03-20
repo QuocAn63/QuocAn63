@@ -10,6 +10,7 @@
 </ul>
 <hr/>
 <h3>Skills 💪</h3>
+    <div style="diplay: flex; gap: 12px;">
     <img src="/assets/images/js.png"
          alt="Javascript"
         width="50"
@@ -49,5 +50,5 @@
          alt="goLang"
         width="50"
         style="border-radius: 4px; display:inline-block;"
-    >
+    ></div>
 <hr/>
