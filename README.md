@@ -13,41 +13,41 @@
     <img src="/assets/images/js.png"
          alt="Javascript"
         width="50"
-        style="border-radius: 4px"
+        style="border-radius: 4px; display:inline-block;"
     >
     <img src="/assets/images/ts.png"
          alt="Javascript"
         width="50"
-        style="border-radius: 4px"
+        style="border-radius: 4px; display:inline-block;"
     >
     <img src="/assets/images/reactjs.png"
          alt="ReactJS"
         width="50"
-        style="border-radius: 4px"
+        style="border-radius: 4px; display:inline-block;"
     >
     <img src="/assets/images/nextjs.png"
          alt="NextJS"
         width="50"
-        style="border-radius: 4px"
+        style="border-radius: 4px; display:inline-block;"
     >
     <img src="/assets/images/nodejs.png"
          alt="NodeJS"
         width="50"
-        style="border-radius: 4px"
+        style="border-radius: 4px; display:inline-block;"
     >
     <img src="/assets/images/tailwind.png"
          alt="TailwindCSS"
         width="50"
-        style="border-radius: 4px"
+        style="border-radius: 4px; display:inline-block;"
     >
     <img src="/assets/images/antdesign.png"
          alt="AntDesign"
         width="50"
-        style="border-radius: 4px"
+        style="border-radius: 4px; display:inline-block;"
     >
     <img src="/assets/images/go.png"
          alt="goLang"
         width="50"
-        style="border-radius: 4px"
+        style="border-radius: 4px; display:inline-block;"
     >
 <hr/>
